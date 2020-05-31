@@ -1,0 +1,1560 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-05-31 19:08+0100\n"
+"PO-Revision-Date: 2020-05-31 21:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_att;esc_attr__;"
+"esc_attr_e;esc_html_e;_n:1,2;_x:1,2c;_nx:4c,1,2;esc_ettr_x:1,2c;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: optin-downloads.php:28
+msgid "Complete your name and email to receive free item."
+msgstr "Preencha o seu nome e email para receber o item gratuito."
+
+#: optin-downloads.php:29
+msgid "Get Download Link"
+msgstr "Obter link para download"
+
+#: optin-downloads.php:30
+msgid "Enter your e-mail..."
+msgstr "Insira o seu e-mail..."
+
+#: optin-downloads.php:31
+msgid "Enter your name..."
+msgstr "Insira o seu nome..."
+
+#: optin-downloads.php:46
+msgid "Thank you. Download link was sent to {email}."
+msgstr "Obrigado. O link para download foi enviado para {email}."
+
+#: optin-downloads.php:48 optin-downloads.php:109
+msgid "Get your freebie"
+msgstr ""
+
+#: optin-downloads.php:49 optin-downloads.php:110
+msgid "Dear {name},"
+msgstr "Olá {name},"
+
+#: optin-downloads.php:49 optin-downloads.php:110
+msgid "Thank you for subscription. Click the link below to download the item:"
+msgstr ""
+"Obrigado pelo seu interesse. Clique no link abaixo para fazer download do "
+"ficheiro:"
+
+#: optin-downloads.php:49 optin-downloads.php:57 optin-downloads.php:110
+msgid "Thanks,"
+msgstr "Obrigado,"
+
+#: optin-downloads.php:56
+msgid "New subscriber"
+msgstr "Novo subscritor"
+
+#: optin-downloads.php:57
+msgid "Dear Administrator,"
+msgstr "Caro Administrador,"
+
+#: optin-downloads.php:57
+msgid "This is a notification about new subscriber."
+msgstr "Esta é uma notificação sobre o novo subscritor."
+
+#: optin-downloads.php:97
+msgid "I agree with the {Terms & Conditions}"
+msgstr "Eu concordo com os {Terms & Conditions}"
+
+#: optin-downloads.php:98
+msgid "Drop your Terms & Conditions here."
+msgstr "Faça download dos Termos e Condições aqui."
+
+#: optin-downloads.php:340 optin-downloads.php:341 optin-downloads.php:3348
+#: optin-downloads.php:3367 optin-downloads.php:3402
+msgid "Opt-In Downloads"
+msgstr "Opt-In Downloads"
+
+#: optin-downloads.php:348 optin-downloads.php:349
+msgid "Files"
+msgstr "Arquivos"
+
+#: optin-downloads.php:356 optin-downloads.php:357
+msgid "Add File"
+msgstr "Adicionar arquivo"
+
+#: optin-downloads.php:364 optin-downloads.php:365
+msgid "Log"
+msgstr "Inscritos"
+
+#: optin-downloads.php:372 optin-downloads.php:373
+msgid "Settings"
+msgstr "Configurações"
+
+#: optin-downloads.php:381 optin-downloads.php:382
+msgid "How To Use"
+msgstr "Como Usar"
+
+#: optin-downloads.php:390 optin-downloads.php:391
+msgid "FAQ"
+msgstr "FAQ"
+
+#: optin-downloads.php:404
+msgid "Opt-In Downloads - Settings"
+msgstr "Opt-In Downloads - Configurações"
+
+#: optin-downloads.php:408
+msgid "General"
+msgstr "Geral"
+
+#: optin-downloads.php:409
+msgid "Mailing"
+msgstr "Email"
+
+#: optin-downloads.php:410
+msgid "Integrations"
+msgstr "Integrações"
+
+#: optin-downloads.php:416
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+#: optin-downloads.php:420 optin-downloads.php:1874
+msgid "Intro"
+msgstr "Introdução"
+
+#: optin-downloads.php:423
+msgid ""
+"Please enter content of opt-in box. HTML allowed. Opt-in form is inserted "
+"below this content. You can override this content for each file."
+msgstr ""
+"Digite o conteúdo na caixa de inscrição. HTML permitido. O formulário de "
+"inscrição é inserido abaixo deste conteúdo. Você pode substituir este "
+"conteúdo para cada arquivo."
+
+#: optin-downloads.php:427
+msgid "\"Name\" field placeholder"
+msgstr "Campo \"NOME\""
+
+#: optin-downloads.php:430
+msgid "Enter the placeholder for \"Name\" input field."
+msgstr "Insira o que deseja ver no campo \"NOME\"."
+
+#: optin-downloads.php:434
+msgid "Disable \"name\" field"
+msgstr "Desativar o campo \"NOME\""
+
+#: optin-downloads.php:436
+msgid "Disable \"Name\" field in opt-in form"
+msgstr "Desativar o campo \"NOME\" no formulário"
+
+#: optin-downloads.php:437
+msgid ""
+"Please tick checkbox if you want to disable \"Name\" field in opt-in form."
+msgstr ""
+"Marque a caixa de seleção se desejar desativar o campo \"NOME\" no "
+"formulário."
+
+#: optin-downloads.php:441
+msgid "\"E-mail\" field placeholder"
+msgstr "Campo \"EMAIL\""
+
+#: optin-downloads.php:444
+msgid "Enter the placeholder for \"E-mail\" input field."
+msgstr "Insira o que deseja ver no campo \"EMAIL\"."
+
+#: optin-downloads.php:448
+msgid "Extended e-mail validation"
+msgstr "Ativar validação alargada de endereço de email"
+
+#: optin-downloads.php:450
+msgid "Enable extended e-mail address validation"
+msgstr "Habilitar validação de endereço de email estendido"
+
+#: optin-downloads.php:451
+msgid ""
+"If you turn this option on, the plugin will check MX records according to "
+"the host provided within the email address. PHP 5 >= 5.3 required!"
+msgstr ""
+"Se você ativar esta opção, o plug-in verificará os registos MX de acordo com "
+"o host fornecido no endereço de email. PHP 5> = 5.3 necessário!"
+
+#: optin-downloads.php:455
+msgid "\"Subscribe\" button label"
+msgstr "Nome do botão \"SUBSCREVER\""
+
+#: optin-downloads.php:458
+msgid "Enter the label for \"Subscribe\" button."
+msgstr "Digite o nome para o botão \"Subscrever\"."
+
+#: optin-downloads.php:462
+msgid "Enable GDPR"
+msgstr "Ativar RGPD"
+
+#: optin-downloads.php:464
+msgid "Enable checkbox to agree with the Terms & Conditions"
+msgstr "Ative a caixa de seleção para concordar com os Termos & Condições"
+
+#: optin-downloads.php:465
+msgid "Please tick checkbox if you want to add checkbox to subscription form."
+msgstr ""
+"Marque a caixa de seleção se desejar adicionar a caixa de seleção ao "
+"formulário de inscrição."
+
+#: optin-downloads.php:469
+msgid "GDPR title"
+msgstr "Título RGPD"
+
+#: optin-downloads.php:472
+msgid ""
+"Enter the label for GDPR checkbox. Wrap your keyword with \"{\" and \"}\" to "
+"link it with Terms & Conditions box. HTML allowed."
+msgstr ""
+"Digite o nome para a caixa de seleção RGPD. Escreva a sua palavra-chave com "
+"\"{\" and \"}\"\n"
+"para vinculá-la à caixa de Termos e Condições. HTML permitido."
+
+#: optin-downloads.php:476
+msgid "Terms & Conditions"
+msgstr "Termos & Condições"
+
+#: optin-downloads.php:479
+msgid "Drop your Terms & Conditions text here."
+msgstr "Download do texto Termos & Condições aqui."
+
+#: optin-downloads.php:483
+msgid "Thanksgiving message"
+msgstr "Mensagem de agradecimento"
+
+#: optin-downloads.php:484
+msgid "This message appears in case of successful form submission."
+msgstr "Esta mensagem aparece em caso de envio bem-sucedido do formulário."
+
+#: optin-downloads.php:487
+msgid "Google Analytics tracking"
+msgstr "Rastreamento do Google Analytics"
+
+#: optin-downloads.php:489
+msgid "Enable Google Analytics tracking"
+msgstr "Ativar rastreamento do Google Analytics"
+
+#: optin-downloads.php:490
+msgid ""
+"Send subscribtion event to Google Analytics. Google Analytics must be "
+"installed on your website."
+msgstr ""
+"Envie um evento de subscrição para o Google Analytics. O Google Analytics "
+"deve estar instalado no seu site."
+
+#: optin-downloads.php:494
+msgid "CSV column separator"
+msgstr "Separador da coluna CSV"
+
+#: optin-downloads.php:497
+msgid "Semicolon - \";\""
+msgstr "Ponto e vírgula - \";\""
+
+#: optin-downloads.php:498
+msgid "Comma - \",\""
+msgstr "Vírgula - \",\""
+
+#: optin-downloads.php:499
+msgid "Tab"
+msgstr "Espaço"
+
+#: optin-downloads.php:501
+msgid "Please select CSV column separator."
+msgstr "Por favor, selecione o separador de colunas CSV."
+
+#: optin-downloads.php:508
+msgid "Download Settings"
+msgstr "Configurações de Download"
+
+#: optin-downloads.php:512
+msgid "Temporary link lifetime"
+msgstr "Tempo de expiração do link temporário"
+
+#: optin-downloads.php:514
+msgid "hours"
+msgstr "horas"
+
+#: optin-downloads.php:515
+msgid ""
+"Original download links will be replaced by temporary download links. Please "
+"enter period of download link validity."
+msgstr ""
+"Os links de download originais serão substituídos por links de download "
+"temporários. Digite o período de validade do link para download."
+
+#: optin-downloads.php:519 optin-downloads.php:521
+msgid "Expired link redirection URL"
+msgstr "URL de redirecionamento de link expirado"
+
+#: optin-downloads.php:522
+msgid "Please enter the destination URL for expired links."
+msgstr "Digite o URL de destino para os links expirados."
+
+#: optin-downloads.php:529
+msgid "Secure download"
+msgstr "Download seguro"
+
+#: optin-downloads.php:531
+msgid "Secure download of Media Library files"
+msgstr "Download seguro de arquivos da Biblioteca de Média"
+
+#: optin-downloads.php:532
+msgid ""
+"Enable secure download of Media Library files. Users can not see the real "
+"location of the file."
+msgstr ""
+"Habilite o download seguro de arquivos da Biblioteca de Média. Os "
+"utilizadores não podem ver a localização real do arquivo."
+
+#: optin-downloads.php:538
+msgid "Enable X-Sendfile"
+msgstr "Ativar X-Sendfile"
+
+#: optin-downloads.php:540
+msgid "Download Media Library files through X-Sendfile module"
+msgstr ""
+"Download de arquivos da Biblioteca de média através do módulo X-Sendfile"
+
+#: optin-downloads.php:541
+msgid ""
+"Use this option to enable X-SendFile mode to download huge Media Library "
+"files securely. Please contact your hosting provider to make sure that <a "
+"href=\"https://tn123.org/mod_xsendfile/\" target=\"_blank"
+"\"><strong>mod_xsendfile</strong></a> module installed on your server. Do "
+"not activate this option if <strong>mod_xsendfile</strong> module is not "
+"installed."
+msgstr ""
+"Use esta opção para ativar o modo X-SendFile para download de arquivos "
+"enormes da Biblioteca de média com segurança. Entre em contacto com o seu "
+"provedor de hospedagem para garantir que o módulo <a href=\"https://tn123."
+"org/mod_xsendfile/\" target=\"_blank\"><strong>mod_xsendfile</strong></a> "
+"esteja instalado no servidor. Não ative esta opção se o módulo "
+"<strong>mod_xsendfile</strong> não estiver instalado."
+
+#: optin-downloads.php:546 optin-downloads.php:548
+msgid "Amazon Access Key"
+msgstr ""
+
+#: optin-downloads.php:549
+msgid ""
+"Please enter Amazon Access Key. Ignore it, if you do not host files on "
+"Amazon S3."
+msgstr ""
+
+#: optin-downloads.php:553 optin-downloads.php:555
+msgid "Amazon Secret Key"
+msgstr ""
+
+#: optin-downloads.php:556
+msgid ""
+"Please enter Amazon Secret Key. Ignore it, if you do not host files on "
+"Amazon S3."
+msgstr ""
+
+#: optin-downloads.php:560 optin-downloads.php:562
+msgid "Amazon S3 Bucket"
+msgstr ""
+
+#: optin-downloads.php:563
+msgid ""
+"Please enter Amazon S3 Bucket. Ignore it, if you do not host files on Amazon "
+"S3."
+msgstr ""
+
+#: optin-downloads.php:570
+msgid "Design Settings"
+msgstr ""
+
+#: optin-downloads.php:574
+msgid "Box background color"
+msgstr ""
+
+#: optin-downloads.php:577
+msgid "Set main box background color. Leave empty for transparent background."
+msgstr ""
+
+#: optin-downloads.php:581
+msgid "Box border color"
+msgstr ""
+
+#: optin-downloads.php:584
+msgid "Set main box border color. Leave empty for transparent border."
+msgstr ""
+
+#: optin-downloads.php:588
+msgid "Font color"
+msgstr ""
+
+#: optin-downloads.php:591
+msgid "Set font color. Leave empty for default font color."
+msgstr ""
+
+#: optin-downloads.php:595
+msgid "Font size"
+msgstr ""
+
+#: optin-downloads.php:597 optin-downloads.php:632 optin-downloads.php:653
+msgid "pixels"
+msgstr ""
+
+#: optin-downloads.php:598
+msgid "Set font size (pixels)."
+msgstr ""
+
+#: optin-downloads.php:602
+msgid "Input field border color"
+msgstr ""
+
+#: optin-downloads.php:605
+msgid "Set border color of \"Name\" and \"E-mail\" input fields."
+msgstr ""
+
+#: optin-downloads.php:609
+msgid "Input field background color"
+msgstr ""
+
+#: optin-downloads.php:612
+msgid "Set background color of \"Name\" and \"E-mail\" input fields."
+msgstr ""
+
+#: optin-downloads.php:616
+msgid "Input field background opacity"
+msgstr ""
+
+#: optin-downloads.php:619
+msgid ""
+"Set background opacity of \"Name\" and \"E-mail\" input fields. The value "
+"must be in a range [0...1]."
+msgstr ""
+
+#: optin-downloads.php:623
+msgid "Input field font color"
+msgstr ""
+
+#: optin-downloads.php:626
+msgid "Set font color of \"Name\" and \"E-mail\" input fields."
+msgstr ""
+
+#: optin-downloads.php:630
+msgid "Input field font size"
+msgstr ""
+
+#: optin-downloads.php:633
+msgid "Set font size (pixels) of \"Name\" and \"E-mail\" input fields."
+msgstr ""
+
+#: optin-downloads.php:637
+msgid "Button color"
+msgstr ""
+
+#: optin-downloads.php:640
+msgid "Set button color."
+msgstr ""
+
+#: optin-downloads.php:644
+msgid "Button font color"
+msgstr ""
+
+#: optin-downloads.php:647
+msgid "Set button font color."
+msgstr ""
+
+#: optin-downloads.php:651
+msgid "Button font size"
+msgstr ""
+
+#: optin-downloads.php:654
+msgid "Set font size (pixels) of the button."
+msgstr ""
+
+#: optin-downloads.php:665
+msgid "General Mailing Settings"
+msgstr "Configurações Gerais de Email"
+
+#: optin-downloads.php:669
+msgid "Sender name"
+msgstr "Nome do remetente"
+
+#: optin-downloads.php:670
+msgid ""
+"Please enter sender name. All messages are sent using this name as \"FROM:\" "
+"header value."
+msgstr ""
+"Insira o nome do remetente. Todas as mensagens são enviadas usando este nome "
+"como valor do cabeçalho \"DE:\"."
+
+#: optin-downloads.php:673
+msgid "Sender e-mail"
+msgstr "E-mail do remetente"
+
+#: optin-downloads.php:674
+msgid ""
+"Please enter sender e-mail. All messages are sent using this e-mail as "
+"\"FROM:\" header value."
+msgstr ""
+"Insira o nome do remetente. Todas as mensagens são enviadas usando este nome "
+"como valor do cabeçalho \"DE:\"."
+
+#: optin-downloads.php:680
+msgid "Welcome Message Settings"
+msgstr "Configurações da Mensagem de Boas-Vindas"
+
+#: optin-downloads.php:684 optin-downloads.php:712
+msgid "Enable"
+msgstr "Ativar"
+
+#: optin-downloads.php:686
+msgid "Send welcome message"
+msgstr "Enviar mensagem de boas-vindas"
+
+#: optin-downloads.php:687
+msgid "Please tick checkbox if you want to send welcome message to subscriber."
+msgstr ""
+"Marque a caixa de seleção se desejar enviar uma mensagem de boas-vindas ao "
+"subscritor."
+
+#: optin-downloads.php:691 optin-downloads.php:726 optin-downloads.php:1943
+msgid "Subject"
+msgstr "Assunto"
+
+#: optin-downloads.php:694 optin-downloads.php:1946
+msgid ""
+"In case of successful subscription, your visitors receive e-mail message "
+"which contains download link. This is the subject field of the message."
+msgstr ""
+"Em caso de subscrição bem-sucedida, os seus visitantes receberão uma "
+"mensagem de email com o link para download. Este é o campo de assunto da "
+"mensagem."
+
+#: optin-downloads.php:698 optin-downloads.php:733 optin-downloads.php:1950
+msgid "Message"
+msgstr "Mensagem"
+
+#: optin-downloads.php:701 optin-downloads.php:1953
+msgid ""
+"This e-mail message is sent to your visitor in case of successful "
+"subscription. You can use the following keywords: {download_link}, {name}, "
+"{e-mail}."
+msgstr ""
+"Esta mensagem de email é enviada ao seu visitante em caso de subscrição bem-"
+"sucedida. Você pode usar as seguintes palavras-chave: {download_link}, "
+"{name}, {e-mail}."
+
+#: optin-downloads.php:708
+msgid "Admin Notification Settings"
+msgstr "Configurações de Notificação do Administrador"
+
+#: optin-downloads.php:714
+msgid "Send details to admin"
+msgstr "Enviar detalhes para o administrador"
+
+#: optin-downloads.php:715
+msgid ""
+"Please tick checkbox if you want to receive submitted contact details by e-"
+"mail."
+msgstr ""
+"Marque a caixa de seleção se desejar receber os detalhes de contacto "
+"enviados por e-mail."
+
+#: optin-downloads.php:719
+msgid "Admin e-mail address"
+msgstr "Endereço de e-mail do administrador"
+
+#: optin-downloads.php:722
+msgid ""
+"Enter your e-mail address. Submitted contact details will be sent to this e-"
+"mail address. You can set several comma-separated e-mails."
+msgstr ""
+"Insira o seu endereço de email. Os detalhes de contacto enviados serão "
+"enviados para este endereço de email. Você pode definir vários e-mails "
+"separados por vírgula."
+
+#: optin-downloads.php:729
+msgid ""
+"In case of successful subscription, administrator may receive notification "
+"message. This is subject field of the message."
+msgstr ""
+"Em caso de subscrição bem-sucedida, o administrador pode receber uma "
+"mensagem de notificação. Este é o campo de assunto da mensagem."
+
+#: optin-downloads.php:736
+msgid ""
+"This notification is sent to administrator in case of successful "
+"subscription. You can use the shortcodes the following shortcodes: {email}, "
+"{name}, {ip}, {url}, {user-agent}."
+msgstr ""
+"Esta notificação é enviada ao administrador em caso de subscrição bem-"
+"sucedida. Você pode usar os seguintes códigos: {email}, {name}, {ip}, {url}, "
+"{user-agent}."
+
+#: optin-downloads.php:740
+msgid "\"FROM\" header"
+msgstr "Cabeçalho \"DE\""
+
+#: optin-downloads.php:742
+msgid "Put user's e-mail into FROM header (not recommended)"
+msgstr "Coloque o email do utilizador no cabeçalho DE (não recomendado)"
+
+#: optin-downloads.php:743
+msgid ""
+"Please remember, many hosting providers do not allow to send e-mails with "
+"3rd party FROM header."
+msgstr ""
+"Lembre-se que muitos provedores de hospedagem não permitem o envio de e-"
+"mails a terceiros com o cabeçalho DE."
+
+#: optin-downloads.php:754
+msgid "MailChimp Settings"
+msgstr "Configurações MailChimp"
+
+#: optin-downloads.php:758
+msgid "Enable MailChimp"
+msgstr "Ativar MailChimp"
+
+#: optin-downloads.php:760
+msgid "Submit contact details to MailChimp"
+msgstr "Enviar detalhes de contato para o MailChimp"
+
+#: optin-downloads.php:761
+msgid ""
+"Please tick checkbox if you want to submit contact details to MailChimp."
+msgstr ""
+"Marque a caixa de seleção se desejar enviar os detalhes de contacto para o "
+"MailChimp."
+
+#: optin-downloads.php:765 optin-downloads.php:853 optin-downloads.php:881
+#: optin-downloads.php:916 optin-downloads.php:972
+msgid "API Key"
+msgstr "Chave API"
+
+#: optin-downloads.php:768
+msgid ""
+"Enter your MailChimp API Key. You can get it <a href=\"https://admin."
+"mailchimp.com/account/api-key-popup\" target=\"_blank\">here</a>."
+msgstr ""
+"Insira a sua chave API MailChimp. Você pode obtê-la <a href=\"https://admin."
+"mailchimp.com/account/api-key-popup\" target=\"_blank\">aqui</a>."
+
+#: optin-downloads.php:772 optin-downloads.php:832 optin-downloads.php:888
+#: optin-downloads.php:923 optin-downloads.php:951 optin-downloads.php:979
+#: optin-downloads.php:1046 optin-downloads.php:1090 optin-downloads.php:1205
+#: optin-downloads.php:1262 optin-downloads.php:1433 optin-downloads.php:1523
+msgid "List ID"
+msgstr "ID da lista"
+
+#: optin-downloads.php:780
+msgid "Enter your List ID."
+msgstr "Insira a sua ID da lista."
+
+#: optin-downloads.php:789 optin-downloads.php:986
+msgid "Double opt-in"
+msgstr "Aceitação dupla"
+
+#: optin-downloads.php:791 optin-downloads.php:988
+msgid "Ask users to confirm their subscription"
+msgstr "Peça aos utilizadores para confirmar a sua subscrição"
+
+#: optin-downloads.php:792 optin-downloads.php:989
+msgid "Control whether a double opt-in confirmation message is sent."
+msgstr "Controle se uma mensagem de confirmação de inscrição dupla é enviada."
+
+#: optin-downloads.php:800
+msgid "iContact Settings"
+msgstr ""
+
+#: optin-downloads.php:804
+msgid "Enable iContact"
+msgstr ""
+
+#: optin-downloads.php:806
+msgid "Submit contact details to iContact"
+msgstr ""
+
+#: optin-downloads.php:807
+msgid "Please tick checkbox if you want to submit contact details to iContact."
+msgstr ""
+
+#: optin-downloads.php:811
+msgid "AppID"
+msgstr ""
+
+#: optin-downloads.php:814
+msgid ""
+"Obtained when you <a href=\"http://developer.icontact.com/documentation/"
+"register-your-app/\" target=\"_blank\">Register the API application</a>. "
+"This identifier is used to uniquely identify your application."
+msgstr ""
+
+#: optin-downloads.php:818
+msgid "API Username"
+msgstr ""
+
+#: optin-downloads.php:821
+msgid "The iContact username for logging into your iContact account."
+msgstr ""
+
+#: optin-downloads.php:825
+msgid "API Password"
+msgstr ""
+
+#: optin-downloads.php:828
+msgid ""
+"The API application password set when the application was registered. This "
+"API password is used as input when your application authenticates to the "
+"API. This password is not the same as the password you use to log in to "
+"iContact."
+msgstr ""
+
+#: optin-downloads.php:835 optin-downloads.php:926 optin-downloads.php:982
+#, php-format
+msgid "Enter your List ID. You can get List ID from %sthis table%s."
+msgstr ""
+
+#: optin-downloads.php:835 optin-downloads.php:926 optin-downloads.php:982
+msgid "Available Lists"
+msgstr ""
+
+#: optin-downloads.php:835
+msgid "iContact"
+msgstr ""
+
+#: optin-downloads.php:842
+msgid "GetResponse Settings"
+msgstr ""
+
+#: optin-downloads.php:846
+msgid "Enable GetResponse"
+msgstr ""
+
+#: optin-downloads.php:848
+msgid "Submit contact details to GetResponse"
+msgstr ""
+
+#: optin-downloads.php:849
+msgid ""
+"Please tick checkbox if you want to submit contact details to GetResponse."
+msgstr ""
+
+#: optin-downloads.php:856
+msgid ""
+"Enter your GetResponse API Key. You can get your API Key <a href=\"https://"
+"app.getresponse.com/my_api_key.html\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: optin-downloads.php:860 optin-downloads.php:1374
+msgid "Campaign ID"
+msgstr ""
+
+#: optin-downloads.php:863
+#, php-format
+msgid "Enter your Campaign ID. You can get Campaign ID from %sthis table%s."
+msgstr ""
+
+#: optin-downloads.php:863
+msgid "Available Campaigns"
+msgstr "Campanhas Disponíveis"
+
+#: optin-downloads.php:863
+msgid "GetResponse"
+msgstr ""
+
+#: optin-downloads.php:870
+msgid "Campaign Monitor Settings"
+msgstr ""
+
+#: optin-downloads.php:874
+msgid "Enable Campaign Monitor"
+msgstr ""
+
+#: optin-downloads.php:876
+msgid "Submit contact details to Campaign Monitor"
+msgstr ""
+
+#: optin-downloads.php:877
+msgid ""
+"Please tick checkbox if you want to submit contact details to Campaign "
+"Monitor. <strong>CURL required!</strong>"
+msgstr ""
+
+#: optin-downloads.php:884
+msgid ""
+"Enter your Campaign Monitor API Key. You can get your API Key from the "
+"Account Settings page when logged into your Campaign Monitor account."
+msgstr ""
+
+#: optin-downloads.php:891
+msgid ""
+"Enter your List ID. You can get List ID from the list editor page when "
+"logged into your Campaign Monitor account."
+msgstr ""
+
+#: optin-downloads.php:898
+msgid "Mad Mimi Settings"
+msgstr ""
+
+#: optin-downloads.php:902
+msgid "Enable Mad Mimi"
+msgstr ""
+
+#: optin-downloads.php:904
+msgid "Submit contact details to Mad Mimi"
+msgstr ""
+
+#: optin-downloads.php:905
+msgid "Please tick checkbox if you want to submit contact details to Mad Mimi."
+msgstr ""
+
+#: optin-downloads.php:909
+msgid "Username/E-mail"
+msgstr ""
+
+#: optin-downloads.php:912
+msgid "Enter your Mad Mimi username/e-mail."
+msgstr ""
+
+#: optin-downloads.php:919
+msgid ""
+"Enter your Mad Mimi API Key. You can get your API Key <a href=\"https://"
+"madmimi.com/user/edit?account_info_tabs=account_info_personal\" target="
+"\"_blank\">here</a>."
+msgstr ""
+
+#: optin-downloads.php:926 optin-downloads.php:982
+msgid "Mad Mimi"
+msgstr ""
+
+#: optin-downloads.php:933
+msgid "Sendy Settings"
+msgstr ""
+
+#: optin-downloads.php:937
+msgid "Enable Sendy"
+msgstr ""
+
+#: optin-downloads.php:939
+msgid "Submit contact details to Sendy"
+msgstr ""
+
+#: optin-downloads.php:940
+msgid "Please tick checkbox if you want to submit contact details to Sendy."
+msgstr ""
+
+#: optin-downloads.php:944
+msgid "Installation URL"
+msgstr ""
+
+#: optin-downloads.php:947
+msgid "Enter your Sendy installation URL (without the trailing slash)."
+msgstr ""
+
+#: optin-downloads.php:954
+msgid ""
+"Enter your List ID. This encrypted & hashed id can be found under View all "
+"lists section named ID."
+msgstr ""
+
+#: optin-downloads.php:961
+msgid "Benchmark Settings"
+msgstr ""
+
+#: optin-downloads.php:965
+msgid "Enable Benchmark"
+msgstr ""
+
+#: optin-downloads.php:967
+msgid "Submit contact details to Benchmark Email"
+msgstr ""
+
+#: optin-downloads.php:968
+msgid ""
+"Please tick checkbox if you want to submit contact details to Benchmark "
+"Email."
+msgstr ""
+
+#: optin-downloads.php:975
+msgid ""
+"Enter your Benchmark Email API Key. You can get your API Key <a href="
+"\"https://ui.benchmarkemail.com/EditSetting\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: optin-downloads.php:996
+msgid "AWeber Settings"
+msgstr ""
+
+#: optin-downloads.php:1000
+msgid "Enable AWeber"
+msgstr ""
+
+#: optin-downloads.php:1002
+msgid "Submit contact details to AWeber"
+msgstr ""
+
+#: optin-downloads.php:1003
+msgid "Please tick checkbox if you want to submit contact details to AWeber."
+msgstr ""
+
+#: optin-downloads.php:1022 optin-downloads.php:1555
+msgid "Authorization code"
+msgstr "Código de autorização"
+
+#: optin-downloads.php:1025 optin-downloads.php:1558
+msgid "here"
+msgstr ""
+
+#: optin-downloads.php:1039 optin-downloads.php:1516
+msgid "Connected"
+msgstr "Ligado"
+
+#: optin-downloads.php:1042 optin-downloads.php:1519
+msgid "Click the button to disconnect."
+msgstr ""
+
+#: optin-downloads.php:1049 optin-downloads.php:1526
+msgid "--- Select List ID ---"
+msgstr ""
+
+#: optin-downloads.php:1057 optin-downloads.php:1099 optin-downloads.php:1534
+msgid "Select your List ID."
+msgstr ""
+
+#: optin-downloads.php:1070
+msgid "Mailster Settings"
+msgstr ""
+
+#: optin-downloads.php:1077 optin-downloads.php:1083
+msgid "Enable Mailster"
+msgstr ""
+
+#: optin-downloads.php:1078
+msgid "Please"
+msgstr "Por favor"
+
+#: optin-downloads.php:1078
+msgid "create"
+msgstr "criar"
+
+#: optin-downloads.php:1078
+msgid "at least one list."
+msgstr "pelo menos uma lista."
+
+#: optin-downloads.php:1085
+msgid "Submit contact details to Mailster"
+msgstr ""
+
+#: optin-downloads.php:1086
+msgid "Please tick checkbox if you want to submit contact details to Mailster."
+msgstr ""
+
+#: optin-downloads.php:1103
+msgid "Double Opt-In"
+msgstr "Aceitação Dupla"
+
+#: optin-downloads.php:1105
+msgid "Enable Double Opt-In"
+msgstr "Ativar Aceitação Dupla"
+
+#: optin-downloads.php:1106
+msgid "Please tick checkbox if you want to enable double opt-in feature."
+msgstr ""
+"Marque a caixa de seleção se desejar ativar o recurso de dupla aceitação."
+
+#: optin-downloads.php:1122
+msgid "Save Settings"
+msgstr "Salvar Configurações"
+
+#: optin-downloads.php:1131
+msgid "Close"
+msgstr "Fechar"
+
+#: optin-downloads.php:1193 optin-downloads.php:1250 optin-downloads.php:1307
+#: optin-downloads.php:1419
+msgid "Invalid API credentials."
+msgstr "Credenciais API inválidas."
+
+#: optin-downloads.php:1206 optin-downloads.php:1263 optin-downloads.php:1434
+msgid "List Name"
+msgstr "Nome da Lista"
+
+#: optin-downloads.php:1220 optin-downloads.php:1277 optin-downloads.php:1389
+#: optin-downloads.php:1448
+msgid "No data found."
+msgstr ""
+
+#: optin-downloads.php:1343 optin-downloads.php:1353
+msgid "API call failed."
+msgstr ""
+
+#: optin-downloads.php:1364
+#, php-format
+msgid "API call failed: %s"
+msgstr ""
+
+#: optin-downloads.php:1375
+msgid "Campaign Name"
+msgstr ""
+
+#: optin-downloads.php:1471
+msgid "Authorization Code not found."
+msgstr "Código de autorização não encontrado."
+
+#: optin-downloads.php:1492
+msgid "Invalid Authorization Code!"
+msgstr "Código de Autorização Inválido!"
+
+#: optin-downloads.php:1502
+msgid "Can not access AWeber account!"
+msgstr ""
+
+#: optin-downloads.php:1635
+msgid "Sender e-mail must be valid e-mail address."
+msgstr "O email do remetente deve ser um endereço de email válido."
+
+#: optin-downloads.php:1636
+msgid "Sender name is too short."
+msgstr "O nome do remetente é muito curto."
+
+#: optin-downloads.php:1637
+msgid "Thanksgiving e-mail subject must contain at least 3 characters."
+msgstr ""
+
+#: optin-downloads.php:1638
+msgid "Thanksgiving e-mail subject must contain maximum 64 characters."
+msgstr ""
+
+#: optin-downloads.php:1639
+msgid "Thanksgiving e-mail body must contain at least 3 characters."
+msgstr ""
+
+#: optin-downloads.php:1641
+msgid "Redirecting message is too short."
+msgstr "A mensagem de redirecionamento é muito curta."
+
+#: optin-downloads.php:1642
+msgid "\"Name\" field placeholder is too short."
+msgstr "O campo \"NOME\" é muito curto."
+
+#: optin-downloads.php:1643
+msgid "\"E-mail\" field placeholder is too short."
+msgstr "O campo \"EMAIL\" é muito curto."
+
+#: optin-downloads.php:1644
+msgid "\"Subscribe\" button label is too short."
+msgstr "Nome do botão \"SUBSCREVER\" é muito curto."
+
+#: optin-downloads.php:1645
+msgid "Link lifetime must be a valid integer value."
+msgstr "A expiração do link deve ser um valor inteiro válido."
+
+#: optin-downloads.php:1647
+msgid "Box background color must be a valid value."
+msgstr ""
+
+#: optin-downloads.php:1648
+msgid "Box border color must be a valid value."
+msgstr ""
+
+#: optin-downloads.php:1649
+msgid "Font color must be a valid value."
+msgstr ""
+
+#: optin-downloads.php:1650
+msgid "Input field border color must be a valid value."
+msgstr ""
+
+#: optin-downloads.php:1651
+msgid "Input field background color must be a valid value."
+msgstr ""
+
+#: optin-downloads.php:1652
+msgid "Input field background opacity must be in a range [0...1]."
+msgstr ""
+
+#: optin-downloads.php:1653
+msgid "I font color must be a valid value."
+msgstr ""
+
+#: optin-downloads.php:1654
+msgid "Button color must be a valid value."
+msgstr ""
+
+#: optin-downloads.php:1655
+msgid "Button font color must be a valid value."
+msgstr ""
+
+#: optin-downloads.php:1656
+msgid "Font size must be in a range [10...72]."
+msgstr ""
+
+#: optin-downloads.php:1657
+msgid "Input field font size must be in a range [10...72]."
+msgstr ""
+
+#: optin-downloads.php:1658
+msgid "Button font size must be in a range [10...72]."
+msgstr ""
+
+#: optin-downloads.php:1660
+msgid "Invalid expired link redirection URL."
+msgstr ""
+
+#: optin-downloads.php:1662
+msgid "Amazon Access Key can not be empty."
+msgstr ""
+
+#: optin-downloads.php:1663
+msgid "Amazon Secret Key can not be empty."
+msgstr ""
+
+#: optin-downloads.php:1664
+msgid "Amazon S3 Bucket can not be empty."
+msgstr ""
+
+#: optin-downloads.php:1678 optin-downloads.php:1679
+msgid "Admin e-mail must be valid e-mail address."
+msgstr ""
+
+#: optin-downloads.php:1680
+msgid "Notification subject must contain at least 3 characters."
+msgstr "O assunto da notificação deve conter pelo menos três caracteres."
+
+#: optin-downloads.php:1681
+msgid "Notification subject must contain maximum 64 characters."
+msgstr "O assunto da notificação deve conter no máximo 64 caracteres."
+
+#: optin-downloads.php:1682
+msgid "Notification body must contain at least 3 characters."
+msgstr "O corpo da notificação deve conter pelo menos três caracteres."
+
+#: optin-downloads.php:1686
+msgid "Invalid MailChimp API Key."
+msgstr "Chave API do MailChimp inválida."
+
+#: optin-downloads.php:1687
+msgid "Invalid MailChimp List ID."
+msgstr "ID da lista MailChimp inválida."
+
+#: optin-downloads.php:1690
+msgid "Invalid iContact AppID."
+msgstr ""
+
+#: optin-downloads.php:1691
+msgid "Invalid iContact API Username."
+msgstr ""
+
+#: optin-downloads.php:1692
+msgid "Invalid iContact API Password."
+msgstr ""
+
+#: optin-downloads.php:1693
+msgid "Invalid iContact List ID."
+msgstr ""
+
+#: optin-downloads.php:1696
+msgid "Invalid Campaign Monitor API Key."
+msgstr ""
+
+#: optin-downloads.php:1697
+msgid "Invalid Campaign Monitor List ID."
+msgstr ""
+
+#: optin-downloads.php:1700
+msgid "Invalid GetResponse API Key."
+msgstr ""
+
+#: optin-downloads.php:1701
+msgid "Invalid GetResponse Campaign ID."
+msgstr ""
+
+#: optin-downloads.php:1704
+msgid "Invalid AWeber Connection."
+msgstr ""
+
+#: optin-downloads.php:1705
+msgid "Invalid AWeber List ID."
+msgstr ""
+
+#: optin-downloads.php:1708
+msgid "Invalid MyMail List ID."
+msgstr ""
+
+#: optin-downloads.php:1711
+msgid "Invalid Mad Mimi login."
+msgstr ""
+
+#: optin-downloads.php:1712
+msgid "Invalid Mad Mimi API key."
+msgstr ""
+
+#: optin-downloads.php:1713
+msgid "Invalid Mad Mimi list ID."
+msgstr ""
+
+#: optin-downloads.php:1716
+msgid "Sendy installation URL must be a valid URL."
+msgstr ""
+
+#: optin-downloads.php:1717
+msgid "Invalid Sendy list ID."
+msgstr ""
+
+#: optin-downloads.php:1720
+msgid "Invalid Benchmark Email API key."
+msgstr ""
+
+#: optin-downloads.php:1721
+msgid "Invalid Benchmark Email list ID."
+msgstr ""
+
+#: optin-downloads.php:1726
+msgid "Attention! Please correct errors and try again."
+msgstr "Atenção! Por favor, corrija os erros e tente novamente."
+
+#: optin-downloads.php:1733
+msgid "Settings successfully <strong>saved</strong>."
+msgstr "Configurações salvas com <strong>sucesso</strong>."
+
+#: optin-downloads.php:1762
+msgid "Opt-In Downloads - Files"
+msgstr "Opt-In Downloads - Arquivos"
+
+#: optin-downloads.php:1766 optin-downloads.php:2167
+msgid "Search:"
+msgstr "Pesquisar:"
+
+#: optin-downloads.php:1768 optin-downloads.php:2169
+msgid "Search"
+msgstr "Pesquisar"
+
+#: optin-downloads.php:1769 optin-downloads.php:2170
+msgid "Reset search results"
+msgstr "Limpar resultados da pesquisa"
+
+#: optin-downloads.php:1771 optin-downloads.php:1823
+msgid "Create New File"
+msgstr "Criar Novo Arquivo"
+
+#: optin-downloads.php:1775 optin-downloads.php:1787 optin-downloads.php:1883
+#: optin-downloads.php:1895 optin-downloads.php:1917 optin-downloads.php:1926
+#: optin-downloads.php:3389
+msgid "File"
+msgstr "Arquivo"
+
+#: optin-downloads.php:1776
+msgid "Shortcode"
+msgstr "Código"
+
+#: optin-downloads.php:1777
+msgid "Links"
+msgstr "Links"
+
+#: optin-downloads.php:1790 optin-downloads.php:1889 optin-downloads.php:1910
+msgid "URL"
+msgstr "URL"
+
+#: optin-downloads.php:1793 optin-downloads.php:1886
+msgid "Media Library"
+msgstr "Biblioteca de Média"
+
+#: optin-downloads.php:1796 optin-downloads.php:1890
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+#: optin-downloads.php:1806
+msgid "<div class=\"opd\" data-id=\""
+msgstr ""
+
+#: optin-downloads.php:1806
+msgid "[opd id=\""
+msgstr ""
+
+#: optin-downloads.php:1809
+msgid "Edit file details"
+msgstr "Editar detalhes do arquivo"
+
+#: optin-downloads.php:1810
+msgid "Generate download link"
+msgstr "Gerar link de download"
+
+#: optin-downloads.php:1811
+msgid "Download links"
+msgstr "Links de download"
+
+#: optin-downloads.php:1812
+msgid "Download file"
+msgstr "Download do arquivo"
+
+#: optin-downloads.php:1813
+msgid "Delete file"
+msgstr "Apagar arquivo"
+
+#: optin-downloads.php:1819 optin-downloads.php:2218
+msgid "No results found for"
+msgstr "Nenhum resultado encontrado para"
+
+#: optin-downloads.php:1819 optin-downloads.php:2218
+msgid "List is empty."
+msgstr "A lista está vazia."
+
+#: optin-downloads.php:1856
+msgid "Opt-In Downloads - Edit File"
+msgstr "Opt-In Downloads - Editar arquivo"
+
+#: optin-downloads.php:1856
+msgid "Opt-In Downloads - Add File"
+msgstr "Opt-In Downloads - Adicionar arquivo"
+
+#: optin-downloads.php:1863
+msgid "Edit file"
+msgstr "Editar arquivo"
+
+#: optin-downloads.php:1863
+msgid "Add file"
+msgstr "Adicionar arquivo"
+
+#: optin-downloads.php:1867
+msgid "Title"
+msgstr "Título"
+
+#: optin-downloads.php:1870
+msgid ""
+"Enter the title of file. If you leave this field blank, then original file "
+"name will be the title."
+msgstr ""
+"Digite o título do arquivo. Se você deixar esse campo em branco, o nome do "
+"arquivo original será o título."
+
+#: optin-downloads.php:1877
+msgid ""
+"Enter the content of opt-in box. HTML allowed. Opt-in form is inserted below "
+"this content. Leave this field empty to use Intro from Settings page."
+msgstr ""
+"Insira o conteúdo da caixa de inscrição. HTML permitido. O formulário de "
+"inscrição é inserido abaixo deste conteúdo. Deixe este campo em branco para "
+"usar a Introdução na página Configurações."
+
+#: optin-downloads.php:1881
+msgid "Source"
+msgstr "Fonte"
+
+#: optin-downloads.php:1891
+msgid "Select the source of the file."
+msgstr "Selecione a fonte do arquivo."
+
+#: optin-downloads.php:1898 optin-downloads.php:2016
+msgid "Select available file"
+msgstr "Selecionar arquivo disponível"
+
+#: optin-downloads.php:1904
+#, php-format
+msgid ""
+"Select any available file from folder <strong>%s</strong> or upload new file "
+"below."
+msgstr ""
+"Selecione qualquer arquivo disponível na pasta <strong>%s</strong> ou faça o "
+"upload de um novo arquivo abaixo."
+
+#: optin-downloads.php:1905
+msgid "Upload File"
+msgstr "Upload de arquivo"
+
+#: optin-downloads.php:1905
+msgid "Uploading..."
+msgstr "Fazendo o Upload..."
+
+#: optin-downloads.php:1906
+msgid "Choose file to upload."
+msgstr "Escolha o arquivo para upload."
+
+#: optin-downloads.php:1913
+msgid ""
+"Enter the URL of the file that you want to share with subscribers. This URL "
+"will be replaced by temporary encrypted URL automatically."
+msgstr ""
+"Digite o URL do arquivo que você deseja compartilhar com os subscritores. "
+"Este URL será substituído automaticamente pelo URL criptografado temporário."
+
+#: optin-downloads.php:1920
+msgid ""
+"Enter the name of the file, located in certain bucket on Amazon S3 servers. "
+"Do not forget to set Amazon S3 parameters on Settings page."
+msgstr ""
+"Insira o nome do arquivo, localizado nos servidores Amazon S3. Não se "
+"esqueça de definir os parâmetros do Amazon S3 na página Configurações."
+
+#: optin-downloads.php:1930
+msgid "Select the file from Media Library."
+msgstr "Selecione o arquivo na Biblioteca de Média."
+
+#: optin-downloads.php:1936
+msgid "Custom Welcome Message"
+msgstr "Mensagem de boas-vindas personalizada"
+
+#: optin-downloads.php:1938
+msgid "Send custom welcome message"
+msgstr "Enviar mensagem de boas-vindas personalizada"
+
+#: optin-downloads.php:1939
+msgid ""
+"Please tick checkbox if you want to send custom welcome message to "
+"subscriber. If disabled, default welcome message will be sent."
+msgstr ""
+"Marque a caixa de seleção se desejar enviar uma mensagem de boas-vindas "
+"personalizada ao subscritor. Se desativado, a mensagem de boas-vindas padrão "
+"será enviada."
+
+#: optin-downloads.php:1965
+msgid "Submit Details"
+msgstr "Enviar Detalhes"
+
+#: optin-downloads.php:1994 optin-downloads.php:2012
+msgid "Unable to save uploaded file on server."
+msgstr "Não foi possível salvar o arquivo no servidor."
+
+#: optin-downloads.php:2023
+msgid "File successfully uploaded."
+msgstr "Arquivo enviado com sucesso."
+
+#: optin-downloads.php:2029
+msgid "File was not uploaded properly."
+msgstr "O arquivo não foi carregado corretamente."
+
+#: optin-downloads.php:2058
+msgid "Welcome Email Subject can not be empty."
+msgstr "O assunto do email de boas-vindas não pode estar vazio."
+
+#: optin-downloads.php:2059
+msgid "Welcome Email Message can not be empty."
+msgstr "A mensagem de e-mail de boas-vindas não pode estar vazia."
+
+#: optin-downloads.php:2065
+msgid "Invalid URL."
+msgstr "URL Inválido."
+
+#: optin-downloads.php:2070 optin-downloads.php:2087
+msgid "Invalid Amazon S3 file."
+msgstr ""
+
+#: optin-downloads.php:2075
+msgid "Invalid Media Library file."
+msgstr ""
+
+#: optin-downloads.php:2082
+msgid "Media Library file not found."
+msgstr ""
+
+#: optin-downloads.php:2092
+msgid "File not found."
+msgstr "Arquivo não encontrado."
+
+#: optin-downloads.php:2096
+msgid "Invalid source."
+msgstr "Fonte inválida."
+
+#: optin-downloads.php:2124
+msgid "Service is not available"
+msgstr "O serviço não está disponível"
+
+#: optin-downloads.php:2130
+msgid "Record successfully saved."
+msgstr "Registo salvo com sucesso."
+
+#: optin-downloads.php:2157
+msgid "Record(s) successfully deleted!"
+msgstr "Registo(s) apagados com sucesso!"
+
+#: optin-downloads.php:2162
+msgid "Opt-In Downloads - Log"
+msgstr "Opt-In Downloads - Inscritos"
+
+#: optin-downloads.php:2172 optin-downloads.php:2224
+msgid "CSV Export"
+msgstr "Exportar CSV"
+
+#: optin-downloads.php:2176 optin-downloads.php:3371
+msgid "Name"
+msgstr "Nome"
+
+#: optin-downloads.php:2177
+msgid "E-mail"
+msgstr "E-mail"
+
+#: optin-downloads.php:2178 optin-downloads.php:3374
+msgid "Download Link"
+msgstr "Link de Download"
+
+#: optin-downloads.php:2179
+msgid "Downloads"
+msgstr "Downloads"
+
+#: optin-downloads.php:2180 optin-downloads.php:3390
+msgid "Created"
+msgstr "Criado"
+
+#: optin-downloads.php:2212
+msgid "Delete record"
+msgstr "Apagar registo"
+
+#: optin-downloads.php:2223
+msgid "Delete All"
+msgstr "Apagar Tudo"
+
+#: optin-downloads.php:2234
+msgid "Opt-In Downloads - FAQ"
+msgstr "Opt-In Downloads - FAQ"
+
+#: optin-downloads.php:2281
+msgid "Opt-In Downloads - How To Use"
+msgstr "Opt-In Downloads - Como Usar"
+
+#: optin-downloads.php:2310
+msgid "[sdfile id=\""
+msgstr ""
+
+#: optin-downloads.php:2527 optin-downloads.php:2758
+msgid "File is not available!"
+msgstr "O arquivo não está disponível!"
+
+#: optin-downloads.php:2625
+msgid "File is currently not available."
+msgstr "O arquivo não está disponível no momento."
+
+#: optin-downloads.php:3155
+msgid "Unable to execute the cURL handle."
+msgstr ""
+
+#: optin-downloads.php:3158
+msgid "The iContact API did not return valid JSON."
+msgstr ""
+
+#: optin-downloads.php:3178
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: optin-downloads.php:3207 optin-downloads.php:3234
+msgid "Invalid API Key!"
+msgstr ""
+
+#: optin-downloads.php:3227
+msgid "No Lists found!"
+msgstr ""
+
+#: optin-downloads.php:3243
+msgid "No data found!"
+msgstr ""
+
+#: optin-downloads.php:3370
+msgid "Email"
+msgstr "Email"
+
+#: optin-downloads.php:3391
+msgid "Deleted"
+msgstr "Apagar"
